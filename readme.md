@@ -2,9 +2,10 @@
 
 License: [MIT](./license.md)
 
+![git-logo](./assets/Git-Logo-1788C.png)
 ---
 ### Содержание:
-  1. [git gonfig](./config.md)
+  1. [git config](./config.md)
   2. [git init](./init.md)
   3. [git add](./add.md)
   4. [git commit](./commit.md)
