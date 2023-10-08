@@ -22,5 +22,4 @@ License: [MIT](./license.md)
 #### [Пример](./EDA.md) получения данных о состоянии репозитория с использование команд *git log* и *git show*
 ---
 
-
 Git Logo by Jason Long is licensed under the [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)
