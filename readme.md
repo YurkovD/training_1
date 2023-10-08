@@ -19,7 +19,7 @@ License: [MIT](./license.md)
   12. [git log](./log.md)
   13. [git show](./show.md)
 
-#### [Пример получения данных о состоянии репозитория с использование команд *git log* и *git show*](./Example%20of%20data%20acquisition.md) 
+#### [Пример](./Example%20of%20data%20acquisition.md) получения данных о состоянии репозитория с использование команд *git log* и *git show*
 ---
 
 
